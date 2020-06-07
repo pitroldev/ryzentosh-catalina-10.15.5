@@ -50,6 +50,8 @@
 
 - [ProperTree](https://github.com/corpnewt/ProperTree)
 
+- [MountEFI](https://github.com/corpnewt/MountEFI)
+
 - [Sanity Checker](https://opencore.slowgeek.com/)
 
 - [Turn Off SIP](https://www.imore.com/how-turn-system-integrity-protection-macos)
