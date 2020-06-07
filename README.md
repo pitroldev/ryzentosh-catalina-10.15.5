@@ -36,12 +36,22 @@
 
 - [RadeonBoost](https://forums.macrumors.com/threads/tired-of-low-geekbench-scores-use-radeonboost.2231366/)
 
-
-
 ## Useful Links:
 
 - [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)
 
+- [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+
+- [gibMacOS](https://github.com/corpnewt/gibMacOS)
+
+- [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+
+- [SSDTTime](https://github.com/corpnewt/SSDTTime)
+
+- [ProperTree](https://github.com/corpnewt/ProperTree)
+
 - [Sanity Checker](https://opencore.slowgeek.com/)
 
 - [Turn Off SIP](https://www.imore.com/how-turn-system-integrity-protection-macos)
+
+- [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
