@@ -1,4 +1,4 @@
-# Hardware:
+## Hardware:
 
 - Gigabyte GA-AB350M-Gaming 3
 
@@ -10,7 +10,17 @@
 
 - 1 SSD 120GB PNY (Catalina)
 
-- 1 NVME 970 PRO (Windows 10)
+- 1 SSD 970 PRO NVMe M.2 500GB (Windows 10)
+
+- 2 HD 1TB 7200RPM
+
+- 1 HD 500GB 5400 RPM
+
+## Known Issues:
+
+- Bad Graphics Performance *(GeekBench: OpenCL/Metal)*
+
+- Random Cuts on USB Audio *(Focusrite 2i2 Gen1)*
 
 ## Kexts:
 
@@ -36,6 +46,12 @@
 
 - [RadeonBoost](https://forums.macrumors.com/threads/tired-of-low-geekbench-scores-use-radeonboost.2231366/)
 
+- [VoodooTSCSyncAMD](https://www.insanelymac.com/forum/files/file/744-voodootscsync-configurator/)
+
+- [AMD-USB-Map](https://github.com/dortania/USB-Map-Guide/blob/master/extra-files/AMD-USB-Map.kext.zip)
+
+- [USBInjectAll](https://github.com/RehabMan/OS-X-USB-Inject-All)
+
 ## Useful Links:
 
 - [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)
@@ -57,3 +73,9 @@
 - [Turn Off SIP](https://www.imore.com/how-turn-system-integrity-protection-macos)
 
 - [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
+
+- [DualBoot Time Fix](https://www.reddit.com/r/hackintosh/comments/6hx05v/is_there_a_fix_for_windows_changing_its_time_when/dj1rkfe/)
+
+- [USB Map Guide](https://github.com/dortania/USB-Map-Guide)
+
+
