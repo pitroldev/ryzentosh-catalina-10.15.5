@@ -27,7 +27,7 @@
 
 - 1 HD 500GB 5400 RPM
 
-- Bluetooth Orico BT-403 (Working)
+- Bluetooth Orico BT-403 *(Working)*
 
 ## 📄 Kexts:
 
