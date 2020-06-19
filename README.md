@@ -1,28 +1,35 @@
-## Hardware:
+<div align="center">
+<img src="https://seeklogo.com/images/A/apple-logo-E3DBF3AE34-seeklogo.com.png" alt="Apple Logo" width=100 />
+<h1>Ryzentosh - Catalina 10.15.5</h1>
+</div>
+
+## ⚠ Known Issues:
+
+- Poor Graphics Performance *(GeekBench: OpenCL/Metal)*
+
+- Random Cuts on USB Audio *(Focusrite 2i2 Gen1)*
+
+## 🔧 Hardware:
 
 - Gigabyte GA-AB350M-Gaming 3
 
-- Ryzen 5 2600X
+- AMD Ryzen 5 2600X
 
 - 2x16GB DDR4 2600MHZ
 
-- XFX RX 580 8GB GTS XXX Edition
+- AsRock RX 5700 XT Challenger D
 
-- 1 SSD 120GB PNY (Catalina)
+- 1 SSD 120GB PNY *(Catalina 10.15.5)*
 
-- 1 SSD 970 PRO NVMe M.2 500GB (Windows 10)
+- 1 SSD 970 PRO NVMe M.2 500GB *(Windows 10)*
 
 - 2 HD 1TB 7200RPM
 
 - 1 HD 500GB 5400 RPM
 
-## Known Issues:
+- Bluetooth Orico BT-403 (Working)
 
-- Bad Graphics Performance *(GeekBench: OpenCL/Metal)*
-
-- Random Cuts on USB Audio *(Focusrite 2i2 Gen1)*
-
-## Kexts:
+## 📄 Kexts:
 
 - [Lilu](https://github.com/acidanthera/Lilu)
 
@@ -52,7 +59,11 @@
 
 - [USBInjectAll](https://github.com/RehabMan/OS-X-USB-Inject-All)
 
-## Useful Links:
+- [BrcmFirmwareData](https://github.com/RehabMan/OS-X-BrcmPatchRAM)
+
+- [BrcmPatchRAM2](https://github.com/RehabMan/OS-X-BrcmPatchRAM)
+
+## 🔗 Useful Links:
 
 - [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)
 
@@ -77,5 +88,3 @@
 - [DualBoot Time Fix](https://www.reddit.com/r/hackintosh/comments/6hx05v/is_there_a_fix_for_windows_changing_its_time_when/dj1rkfe/)
 
 - [USB Map Guide](https://github.com/dortania/USB-Map-Guide)
-
-
